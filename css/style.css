@@ -292,7 +292,7 @@ foreignObject {
 
 .how-to__box g:hover text {
   fill: #036cca;
-  line-height: 1.2;
+  line-height: 20px;
   font-size: 24px;
 }
 
